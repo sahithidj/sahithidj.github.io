@@ -61,6 +61,7 @@ Cleaned and preprocessed large datasets using Pandas and NumPy to forecast deman
 
 - Tools: Python, Pandas, NumPy
 - Skills: Data Cleaning & Preprocessing, EDA, Predictive Modeling, Time Series Analysis, Dashboard Design
+
 ---
 ## Contact <a name="Contact"></a>
 - Email: [sjdyuthi@gmail.com](mailto:sjdyuthi@gmail.com)
