@@ -13,13 +13,19 @@ title: Sahithi's Portfolio | Analytics & Project Management Portfolio
 
 Hello! I'm Sahithi, a Mathematics-Computer Science major at UC San Diego, with hands-on experience in project management, data analytics, and software development. I am passionate about building meaningful solutions using data while leading teams towards clear goals. This portfolio highlights some of my work across predictive modeling, data analysis & storytelling, and cross-functional project leadership.  
 
-
+## Experience: 
+---
 ## Projects <a name="Projects"></a>
 
 ### Predictive Diabetes Assessment 
-Led data preprocessing efforts in Python, addressing imbalances and enhancing fairness; Developed a predictive model using Random Forest to classify diabetes diagnosis, achieving optimal performance with above 85% accuracy; Documented project findings, emphasizing the importance of data prepration for successful outcomes. 
+Led data preprocessing efforts in Python, addressing imbalances and enhancing fairness; Developed a predictive model using Random Forest to classify Diabetes diagnosis, achieving optimal accuracy.
 
----
+- Tools: Python, Pandas, Logistic Regression, Random Forest Classifier
+- Skills: Data Cleaning & Processing, EDA, Documentation
+
+[View Project](https://github.com/sahithidj/gp-predictive-diabetes)
+
+
 
 ### Customer Churn Dashboard 
 Built an interactive dashboard with Streamlit, using a Kaggle dataset to identify customer retention patterns. 
@@ -27,13 +33,15 @@ Built an interactive dashboard with Streamlit, using a Kaggle dataset to identif
 - Skills: Data Cleaning, EDA, Dashboard Design
 
 [View Dashboard](https://p1-customer-churn-dashboard1.streamlit.app/)
+
+
 [View Project](https://github.com/sahithidj/p1-customer-churn)
 
 
-
+---
 ## Contact <a name="Contact"></a>
 - Email: [sjdyuthi@gmail.com](mailto:sjdyuthi@gmail.com)
 - [Linkedin](www.linkedin.com/in/sahithi-josyam-41132031b)
 
-
+---
 ## More Skills <a name="More Skills"></a>
