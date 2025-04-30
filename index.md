@@ -46,7 +46,7 @@ Built an interactive dashboard with Streamlit, using a Kaggle dataset to identif
 - Tools: Python, Pandas, Seaborn, Streamlit, HistGradientBoostingClassifier
 - Skills: Data Cleaning, EDA, Predictive Modeling, Dashboard Design
 
-## IT Industry Skill Trend Analysis -- In Progress 
+### IT Industry Skill Trend Analysis -- In Progress 
 *Data Analysis | Predictive Modeling | Dashboard Design | Trend Analysis*
 [View Project](https://github.com/sahithidj/gp-AI-unemployment-analysis)
 
@@ -55,7 +55,7 @@ Developed a predictive model using Naive Bayes to analyze trends in the tech ind
 - Tools: Pandas, NumPy, Scikit-learn, Plotly, Seaborn 
 - Skills: Data Cleaning & Preprocessing, EDA, Predictive Modeling, Dashboard Design 
 
-## Sales Demand Prediction & Forecasting -- In Progress 
+### Sales Demand Prediction & Forecasting -- In Progress 
 *Data Analysis | Predictive Modeling | Dashboard Design*
 
 Cleaned and preprocessed large datasets using Pandas and NumPy to forecast demand across multiple product lines; Applied time series analysis and regression techniques to identify seasonal patterns and sale drivers. 
