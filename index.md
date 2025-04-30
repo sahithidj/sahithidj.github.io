@@ -68,7 +68,7 @@ Cleaned and preprocessed large datasets using Pandas and NumPy to forecast deman
 ---
 ## Contact <a name="Contact"></a>
 - Email: [sjdyuthi@gmail.com](mailto:sjdyuthi@gmail.com)
-- [Linkedin](www.linkedin.com/in/sahithi-josyam-41132031b)
+- [Linkedin](https://www.linkedin.com/in/sahithi-josyam-41132031b)
 
 ---
 ## More Skills <a name="More Skills"></a>
