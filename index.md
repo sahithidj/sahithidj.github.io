@@ -30,6 +30,8 @@ Led data preprocessing efforts in Python, addressing imbalances and enhancing fa
 ### U.S. AI Integration & Unemployment Rates
 *Group Project | Data Analysis | Storytelling & Development*
 
+[View Project](https://github.com/sahithidj/gp-AI-unemployment-analysis)
+
 Cleaned, preprocessed, and analyzed datasets on AI adoption and unemployment rates across multiple industries over the past decade using Python; Investigated correlation between trends, conducting statistical analysis and building visualizations; 
 
 - Tools: Python, Seaborn, Pandas
@@ -48,7 +50,7 @@ Built an interactive dashboard with Streamlit, using a Kaggle dataset to identif
 
 ### IT Industry Skill Trend Analysis -- In Progress 
 *Data Analysis | Predictive Modeling | Dashboard Design | Trend Analysis*
-[View Project](https://github.com/sahithidj/gp-AI-unemployment-analysis)
+
 
 Developed a predictive model using Naive Bayes to analyze trends in the tech industry, utilizing text mining; Extracted key insights from job postings by trend analysis;
 
