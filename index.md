@@ -19,6 +19,7 @@ Hello! I'm Sahithi, a Mathematics-Computer Science major at UC San Diego, with h
 
 ### Predictive Diabetes Assessment 
 *Group Project | Data Analysis | Predictive Modeling*
+
 [View Project](https://github.com/sahithidj/gp-predictive-diabetes)
 
 Led data preprocessing efforts in Python, addressing imbalances and enhancing fairness; Developed a predictive model using Random Forest to classify Diabetes diagnosis, achieving optimal accuracy.
@@ -36,8 +37,8 @@ Cleaned, preprocessed, and analyzed datasets on AI adoption and unemployment rat
 
 ### Customer Churn Dashboard 
 *Data Analysis | Predictive Modeling | Dashboard Design & Storytelling*
-[View Dashboard](https://p1-customer-churn-dashboard1.streamlit.app/)
 
+[View Dashboard,](https://p1-customer-churn-dashboard1.streamlit.app/)
 [View Project](https://github.com/sahithidj/p1-customer-churn)
 
 Built an interactive dashboard with Streamlit, using a Kaggle dataset to identify customer retention patterns. 
