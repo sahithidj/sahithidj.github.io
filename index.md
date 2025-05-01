@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sahithi's Portfolio | Analytics & Project Management Portfolio
+title: Sahithi's Portfolio | Analytics & Project Management 
 
 ---
 <div style="text-align: center; margin-bottom: 20px;">
@@ -12,6 +12,8 @@ title: Sahithi's Portfolio | Analytics & Project Management Portfolio
 # Welcome to My Project Portfolio!
 
 Hello! I'm Sahithi, a Mathematics-Computer Science major at UC San Diego, with hands-on experience in project management, data analytics, and software development. I am passionate about building meaningful solutions using data while leading teams towards clear goals. This portfolio highlights some of my work across predictive modeling, data analysis & storytelling, and cross-functional project leadership.  
+
+--- 
 
 ## Experience: 
 ### Project Manager & Business Lead 
