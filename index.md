@@ -14,6 +14,15 @@ title: Sahithi's Portfolio | Analytics & Project Management Portfolio
 Hello! I'm Sahithi, a Mathematics-Computer Science major at UC San Diego, with hands-on experience in project management, data analytics, and software development. I am passionate about building meaningful solutions using data while leading teams towards clear goals. This portfolio highlights some of my work across predictive modeling, data analysis & storytelling, and cross-functional project leadership.  
 
 ## Experience: 
+### Project Manager & Business Lead 
+*Legacy Robotics, UC Irvine | Project Management*
+
+As project manager and business lead of student organization, Legacy Robotics, I direct comprehensive budgeting strategies and align resource allocation efficiently. I also lead a cross-functional team of engineering, business, and outreach members while managing project timelines, tracking deliverables as well as developing marketing and sponsorship strategies. 
+
+- Tools: Kanban, Excel, Microsoft Office Suite
+- Skills: Leadership, Unified Process, Project Management
+
+
 ---
 ## Projects <a name="Projects"></a>
 
@@ -72,3 +81,5 @@ Cleaned and preprocessed large datasets using Pandas and NumPy to forecast deman
 
 ---
 ## More Skills <a name="More Skills"></a>
+- Programming Languages: Java, C, C++, SQL, R, Python, Linux Commands 
+- Tools & Skills: Git, Google G Suite, Excel, Microsoft Office Suite, Asana, Github, Scrum, Waterfall, Kanban
