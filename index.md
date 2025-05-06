@@ -31,7 +31,7 @@ As project manager and business lead of student organization, Legacy Robotics, I
 ### Predictive Diabetes Assessment 
 *Group Project | Data Analysis | Random Forest | Health Data*
 
-<a href="https://github.com/sahithidj/gp-predictive-diabetes" target="_blank" rel="noopener noreferrer" style="border: none; box-shadow: none; text-decoration: none;">View Project</a> | 
+<a href="https://github.com/sahithidj/gp-predictive-diabetes" target="_blank" rel="noopener noreferrer">View Project</a> | 
 
 Led data preprocessing efforts in Python, addressing imbalances and enhancing fairness; Developed a predictive model using Random Forest to classify Diabetes diagnosis, achieving optimal accuracy.
 
@@ -42,7 +42,7 @@ Led data preprocessing efforts in Python, addressing imbalances and enhancing fa
 *Group Project | Data Analysis | Storytelling & Development*
 
 
-<a href="https://github.com/sahithidj/gp-AI-unemployment-analysis" target="_blank" rel="noopener noreferrer" style="border: none; box-shadow: none; text-decoration: none;">View Project</a> | 
+<a href="https://github.com/sahithidj/gp-AI-unemployment-analysis" target="_blank" rel="noopener noreferrer">View Project</a> | 
 
 Cleaned, preprocessed, and analyzed datasets on AI adoption and unemployment rates across multiple industries over the past decade using Python; Investigated correlation between trends, conducting statistical analysis and building visualizations; 
 
@@ -54,7 +54,7 @@ Cleaned, preprocessed, and analyzed datasets on AI adoption and unemployment rat
 
 <a href="https://p1-customer-churn-dashboard1.streamlit.app/" target="_blank" rel="noopener noreferrer">View Interactive Dashboard</a> | 
 <a href="https://public.tableau.com/shared/99WKNXR9K?:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">View Tableau Dashboard</a> | 
-<a href="https://github.com/sahithidj/p1-customer-churn" target="_blank" rel="noopener noreferrer" style="border: none; box-shadow: none; text-decoration: none;">View Project</a>
+<a href="https://github.com/sahithidj/p1-customer-churn" target="_blank" rel="noopener noreferrer">View Project</a>
 
 Built an interactive dashboard with Streamlit, using a Kaggle dataset to identify customer retention patterns. 
 
@@ -81,26 +81,9 @@ Cleaned and preprocessed large datasets using Pandas and NumPy to forecast deman
 ---
 ## Contact <a name="Contact"></a>
 - Email: [sjdyuthi@gmail.com](mailto:sjdyuthi@gmail.com)
-- <a href="https://www.linkedin.com/in/sahithi-josyam-41132031b" target="_blank" rel="noopener noreferrer" style="border: none; box-shadow: none; text-decoration: none;">LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/sahithi-josyam-41132031b" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
 
 ---
 ## More Skills <a name="More Skills"></a>
 - Programming Languages: Java, C, C++, SQL, R, Python, Linux Commands 
 - Tools & Skills: Git, Google G Suite, Excel, Microsoft Office Suite, Asana, Github, Scrum, Waterfall, Kanban
-
-
-
-
-
-
-
-
-<style>
-a, a:visited, a:hover, a:focus {
-  border: none !important;
-  outline: none !important;
-  box-shadow: none !important;
-  text-decoration: none !important;
-  background: none !important;
-}
-</style>
