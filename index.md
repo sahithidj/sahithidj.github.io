@@ -51,8 +51,8 @@ Cleaned, preprocessed, and analyzed datasets on AI adoption and unemployment rat
 ### Customer Churn Dashboard 
 *Customer Segmentation | Predictive Modeling | Dashboard Design & Storytelling*
 
-[View Interactive Streamlit Dashboard,](https://p1-customer-churn-dashboard1.streamlit.app/)
-[View Tableau Dashboard](https://public.tableau.com/shared/99WKNXR9K?:display_count=n&:origin=viz_share_link)
+[View Interactive Dashboard,](https://p1-customer-churn-dashboard1.streamlit.app/)
+[View Tableau Dashboard,](https://public.tableau.com/shared/99WKNXR9K?:display_count=n&:origin=viz_share_link)
 [View Project](https://github.com/sahithidj/p1-customer-churn)
 
 Built an interactive dashboard with Streamlit, using a Kaggle dataset to identify customer retention patterns. 
