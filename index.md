@@ -31,7 +31,7 @@ As project manager and business lead of student organization, Legacy Robotics, I
 ### Predictive Diabetes Assessment 
 *Group Project | Data Analysis | Random Forest | Health Data*
 
-[View Project](https://github.com/sahithidj/gp-predictive-diabetes)
+<a href="https://github.com/sahithidj/gp-predictive-diabetes" target="_blank" rel="noopener noreferrer">View Project</a> | 
 
 Led data preprocessing efforts in Python, addressing imbalances and enhancing fairness; Developed a predictive model using Random Forest to classify Diabetes diagnosis, achieving optimal accuracy.
 
@@ -41,7 +41,8 @@ Led data preprocessing efforts in Python, addressing imbalances and enhancing fa
 ### U.S. AI Integration & Unemployment Rates
 *Group Project | Data Analysis | Storytelling & Development*
 
-[View Project](https://github.com/sahithidj/gp-AI-unemployment-analysis)
+
+<a href="https://github.com/sahithidj/gp-AI-unemployment-analysis" target="_blank" rel="noopener noreferrer">View Project</a> | 
 
 Cleaned, preprocessed, and analyzed datasets on AI adoption and unemployment rates across multiple industries over the past decade using Python; Investigated correlation between trends, conducting statistical analysis and building visualizations; 
 
@@ -80,7 +81,7 @@ Cleaned and preprocessed large datasets using Pandas and NumPy to forecast deman
 ---
 ## Contact <a name="Contact"></a>
 - Email: [sjdyuthi@gmail.com](mailto:sjdyuthi@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/sahithi-josyam-41132031b)
+- <a href="https://www.linkedin.com/in/sahithi-josyam-41132031b" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
 
 ---
 ## More Skills <a name="More Skills"></a>
