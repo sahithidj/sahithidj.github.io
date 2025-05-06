@@ -87,3 +87,20 @@ Cleaned and preprocessed large datasets using Pandas and NumPy to forecast deman
 ## More Skills <a name="More Skills"></a>
 - Programming Languages: Java, C, C++, SQL, R, Python, Linux Commands 
 - Tools & Skills: Git, Google G Suite, Excel, Microsoft Office Suite, Asana, Github, Scrum, Waterfall, Kanban
+
+
+
+
+
+
+
+
+<style>
+a, a:visited, a:hover, a:focus {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  background: none !important;
+}
+</style>
