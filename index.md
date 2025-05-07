@@ -43,7 +43,7 @@ Led data preprocessing efforts in Python, addressing imbalances and enhancing fa
 
 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiODI4ZWM4MmItNTM4Ni00N2M0LWI4MGYtMTdmMzg3YmI2ZGZlIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9" target="_blank" rel="noopener noreferrer">View Trend</a> | 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODI4ZWM4MmItNTM4Ni00N2M0LWI4MGYtMTdmMzg3YmI2ZGZlIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9" target="_blank" rel="noopener noreferrer">View Unemployment Trend</a> | 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2NiZWMzMmItMjdiOC00ZTliLTg4MmEtMDlkYjM2NGI3N2JmIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9
 " target="_blank" rel="noopener noreferrer">View AI Impact PowerBI Dashboard</a> | 
 <a href="https://github.com/sahithidj/gp-AI-unemployment-analysis" target="_blank" rel="noopener noreferrer">View Project</a>
